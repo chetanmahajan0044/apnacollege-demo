@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first Git Repo
+This is my trial Git Repo
+<br>
+Author : Chetan Mahajan
